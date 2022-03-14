@@ -5,7 +5,7 @@ import Input from "./components/Todo.vue";
 </script>
 
 <template>
-  <h1>My To-do list</h1>
+  <h1>My Vue To-do list</h1>
   <Input></Input>
 </template>
 

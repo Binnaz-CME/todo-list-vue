@@ -10,7 +10,6 @@ function addTodo() {
 }
 
 function removeTodo(todo) {
-  console.log(todo, todos.value )
   todos.value = todos.value.filter((todoObj) => todoObj !== todo);
 }
 
